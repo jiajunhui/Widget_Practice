@@ -1,1 +1,1 @@
-﻿含有起始文本的EditText（含Clear功能）
+Android学习过程中的收藏及总结
